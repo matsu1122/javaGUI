@@ -15,7 +15,7 @@ JavaがインストールされているPCであれば、面倒な設定やコ�
 
 ### 2. ダウンロード
 右側の **Releases** ページ（または以下のリンク）から、最新の `.jar` ファイルをダウンロードしてください。
-- [ダウンロードはこちら (Releases)](ここにReleasesページのURLを貼る)
+- [ダウンロードはこちら (Releases)]([ここにReleasesページのURLを貼る](https://github.com/matsu1122/javaGUI/releases/tag/v1.0))
 
 ### 3. 起動
 ダウンロードした `.jar` ファイルをダブルクリックすると起動します。
