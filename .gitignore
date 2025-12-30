@@ -1,0 +1,8 @@
+# コンパイルされたクラスファイル
+*.class
+
+# Eclipseの設定ファイルやビルドフォルダ
+bin/
+.settings/
+.classpath
+.project
